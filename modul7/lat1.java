@@ -3,19 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pbo_2101092057;
+package fadel281022;
 
 /**
  *
  * @author Muhammad Fadel R
  */
-public class PBO_2101092057 {
-
-    /**
-     * @param args the command line arguments
-     */
+public class lat1{
     public static void main(String[] args) {
-        // TODO code application logic here
+        int[] ages = new int[100];
+        
+        for(int i=0; i<100; i++){
+            System.out.println(ages[i]);
+        }
     }
-    
 }
